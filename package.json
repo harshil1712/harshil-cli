@@ -1,0 +1,15 @@
+{
+  "name": "harshil1712",
+  "version": "0.0.1",
+  "description": "CLI to get Harshil's contact",
+  "main": "bin/index.js",
+  "bin": {
+    "harshil1712": "bin/index.js"
+  },
+  "author": "Harshil Agrawal <hey@harshil.dev> (https://harshil.dev)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/harshil1712/harshil-cli.git"
+  },
+  "license": "MIT"
+}
