@@ -11,5 +11,9 @@
     "type": "git",
     "url": "https://github.com/harshil1712/harshil-cli.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "boxen": "5.1.2"
+  }
 }
